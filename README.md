@@ -1,2 +1,3 @@
 # ProjectEuler
-my solutions
+my tryings and solutions
+#2019
